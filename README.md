@@ -1,2 +1,2 @@
-# Quize-game
-Quize game
+# Quiz-game
+Quiz game
